@@ -1,0 +1,24 @@
+{
+    "theme": {
+        "primary_color": "#2c3e50",
+        "secondary_color": "#3498db",
+        "background_color": "#ecf0f1",
+        "text_color": "#2c3e50",
+        "button_color": "#3498db",
+        "button_text_color": "#ffffff"
+    },
+    "company": {
+        "name": "Sistema PDV",
+        "logo_path": "assets/logo.png",
+        "address": "",
+        "phone": "",
+        "email": ""
+    },
+    "system": {
+        "auto_backup": true,
+        "backup_interval_hours": 24,
+        "low_stock_alert": true,
+        "currency_symbol": "R$",
+        "decimal_places": 2
+    }
+}
