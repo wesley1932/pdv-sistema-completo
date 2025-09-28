@@ -1,0 +1,5 @@
+tkinter
+pillow>=9.0.0
+reportlab>=3.6.0
+ttkthemes>=3.2.0
+sqlite3
